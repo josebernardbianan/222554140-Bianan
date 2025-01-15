@@ -1,0 +1,42 @@
+body {
+    background-color: #e0f7fa; /* Light aqua background */
+    font-family: Arial, sans-serif;
+    color: #333;
+    margin: 0;
+    padding: 20px;
+    line-height: 1.6;
+}
+
+h1, h2, h3, h4 {
+    text-align: center;
+    color: #006064; /* Darker aqua shade for headings */
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    text-align: center; /* Center-align lists */
+}
+
+.center-content {
+    text-align: center;
+    margin: 20px auto;
+    max-width: 600px;
+    background: #ffffff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+img.profile-pic {
+    display: block;
+    margin: 20px auto;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 2px solid #006064;
+}
+
+p {
+    text-align: center;
+}
