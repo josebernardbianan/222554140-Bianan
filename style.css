@@ -1,5 +1,5 @@
 body {
-    background-color: #e0f7fa; /* Light aqua background */
+    background-color: #e0f7fa; 
     font-family: Arial, sans-serif;
     color: #333;
     margin: 0;
@@ -9,13 +9,13 @@ body {
 
 h1, h2, h3, h4 {
     text-align: center;
-    color: #006064; /* Darker aqua shade for headings */
+    color: #006064; 
 }
 
 ul {
     list-style-type: none;
     padding: 0;
-    text-align: center; /* Center-align lists */
+    text-align: center; 
 }
 
 .center-content {
